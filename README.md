@@ -1,6 +1,4 @@
 # Regresja liniowa
-
-## Opis projektu
 Sprawozdanie z przedmiotu Regresja i Analiza Wariancji. Przeprowadzenie analizy regresji liniowej na zbiorze danych `Carseats` z pakietu `ISLR`. Celem analizy jest zbadanie zależności między zmiennymi objaśniającymi a sprzedażą fotelików samochodowych.
 
 ## Wykorzystane technologie
